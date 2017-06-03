@@ -1,0 +1,22 @@
+E:\C# Programms\Voice3\Voice3\bin\Debug\Voice3.exe.config
+E:\C# Programms\Voice3\Voice3\bin\Debug\Voice3.exe
+E:\C# Programms\Voice3\Voice3\bin\Debug\Voice3.pdb
+E:\C# Programms\Voice3\Voice3\bin\Debug\Microsoft.Speech.dll
+E:\C# Programms\Voice3\Voice3\obj\Debug\Voice3.ADD.resources
+E:\C# Programms\Voice3\Voice3\obj\Debug\Voice3.Form1.resources
+E:\C# Programms\Voice3\Voice3\obj\Debug\Voice3.Properties.Resources.resources
+E:\C# Programms\Voice3\Voice3\obj\Debug\Voice3.csproj.GenerateResource.Cache
+E:\C# Programms\Voice3\Voice3\obj\Debug\Voice3.exe
+E:\C# Programms\Voice3\Voice3\obj\Debug\Voice3.pdb
+E:\C# Programms\Voice3\Voice3\obj\Debug\Voice3.csprojResolveAssemblyReference.cache
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\bin\Debug\Voice3.exe.config
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\obj\Debug\Voice3.exe
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\obj\Debug\Voice3.pdb
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\bin\Debug\Voice3.exe
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\bin\Debug\Voice3.pdb
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\bin\Debug\Microsoft.Speech.dll
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\obj\Debug\Voice3.csprojResolveAssemblyReference.cache
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\obj\Debug\Voice3.ADD.resources
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\obj\Debug\Voice3.Form1.resources
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\obj\Debug\Voice3.Properties.Resources.resources
+E:\Программирование\C# Programms\3 курс\Voice3\Voice3\obj\Debug\Voice3.csproj.GenerateResource.Cache
